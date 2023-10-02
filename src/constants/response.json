@@ -1,0 +1,528 @@
+{
+    pagination: { count: 100, limit: 100, offset: 0, total: 10000 },
+    data: [
+      {
+        author: 'Assile Toufaily, Contributor',
+        category: 'general',
+        country: 'us',
+        description: "The Lebanese Women's National Football team defeated Bhutan in Saudi Arabia to win their first ever trophy at senior level...",
+        image: 'https://imageio.forbes.com/specials-images/imageserve/65191cd6c20a7fd9701da1d3/0x0.jpg?width=960',
+        language: 'en',
+        published_at: '2023-10-01T07:23:12Z',
+        source: 'Forbes',
+        title: "Lebanon Wins The 2023 Women's International Friendly Tournament",
+        url: 'https://www.forbes.com/sites/assiletoufaily/2023/10/01/lebanon-wins-the-2023-womens-international-friendly-tournament/'
+      },
+      {
+        author: 'Khambe Huda Imran',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup has ended with its team sessions and what a day it was! As the second day came to an end, both teams were boiling with passion and greed to win. Patrick Cantlay’s 18th-hole putt is going around as the highlight of the day. Followed by questions touching on a hatless Cantlay at&#8230;The post As a &#8216;Hatless&#8217; Patrick Cantlay Ignites Feud Rumors, Captain Zach Johnson Goes in Damage Control Mode With Bizarre Confession appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Patrick-Cantlay-Zach-Johnson-Collage-560x315.png',
+        language: 'en',
+        published_at: '2023-10-01T07:23:00Z',
+        source: 'Essentially Sports',
+        title: 'As a ‘Hatless’ Patrick Cantlay Ignites Feud Rumors, Captain Zach Johnson Goes in Damage Control Mode With Bizarre Confession', 
+        url: 'https://www.essentiallysports.com/golf-news-as-a-hatless-patrick-cantlay-ignites-feud-rumors-captain-zach-johnson-goes-in-damage-control-mode-with-bizarre-confession-ryder-cup/'
+      },
+      {
+        author: 'Suchita Chakraborty',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup is underway, with Team Europe dominating the game. After Friday&#8217;s round at the Marco Simone Golf and Country Club, America stood at 1.5 points while Europe was at 6.5. But the USA veterans carried their team and pulled the score to 5.5, with one win in the Saturday foursomes and three wins&#8230;The post ‘Acted Like an Idiot’: As Americans Narrowly Keep Their Heads Above Water, Rookie Max Homa Comes Clean on ‘Headless’ Antics appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Max-Homa-02-473x315.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:22:42Z',
+        source: 'Essentially Sports',
+        title: '‘Acted Like an Idiot’: As Americans Narrowly Keep Their Heads Above Water, Rookie Max Homa Comes Clean on ‘Headless’ Antics',  
+        url: 'https://www.essentiallysports.com/golf-news-acted-like-an-idiot-as-americans-narrowly-keep-their-heads-above-water-rookie-max-homa-comes-clean-on-headless-antics-ryder-cup/'
+      },
+      {
+        author: 'Joanne Hunt',
+        category: 'general',
+        country: 'us',
+        description: 'Some homeowners are advertising houses to rent at staggering prices',
+        image: 'https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/mjc4E20ohZd0OWUxLtOxujr9AWU=/630x350/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/C66BVGR3CC2MXE4RGIU5NHMGN4.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:18:00Z',
+        source: 'irishtimes',
+        title: 'Almost €40,000 to rent a four-bed semi-d in Limerick? Munster homeowners look to cash in on Ryder Cup in 2027',
+        url: 'https://www.irishtimes.com/property/interiors/2023/10/01/almost-40000-to-rent-a-four-bed-semi-d-in-limerick-munster-homeowners-look-to-cash-in-on-ryder-cup-in-2027/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'us',
+        description: "To find out what's making Britain tick right now, you can forget the red-boxed Budget speech. What you need is the John Lewis annual consumer report. YOU got exclusive access to the latest findings…",
+        image: 'https://i.dailymail.co.uk/1s/2023/09/29/13/75975333-0-image-a-89_1695990274601.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:16:32Z',
+        source: 'dailymail',
+        title: "Which items get bought 18 times an hour at John Lewis? And what viral TikTok trend has pushed sales of Dior make-up up 101 per cent? Britain's spend trends revealed by fascinating John Lewis data",
+        url: 'https://www.dailymail.co.uk/home/you/article-12566543/Which-items-bought-18-times-hour-John-Lewis-viral-TikTok-trend-pushed-sales-Dior-make-101-cent-Britains-spend-trends-revealed-fascinating-John-Lewis-data.html?ns_mchannel=rss&ito=1490&ns_campaign=1490'
+      },
+      {
+        author: 'Jim Seimas',
+        category: 'general',
+        country: 'us',
+        description: "Louie Walters, in his 23rd season as Scotts Valley High football coach, hasn't ever endured such a long duration between games as the one he and his Falcons just endured -- 16 days.",
+        image: 'https://www.santacruzsentinel.com/wp-content/uploads/2023/10/STC-L-HSFBRND-1002-01.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:14:56Z',
+        source: 'santacruzsentinel',
+        title: 'Falcons show no rust in win over St. Francis | High school football roundup',
+        url: 'https://www.santacruzsentinel.com/2023/10/01/falcons-show-no-rust-in-win-over-st-francis-high-school-football-roundup/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'us',
+        description: 'SRI AMAN (Oct 1): The Sarawak government should organise more activities in Sri Aman to transform the district into another preferred tourism destination in the state, said Simanggang assemblyman Datuk Francis Harden Hollis Harden, who is also the state Deputy Education, Innovation and Talent Development Minister, said Simanggang town can be regarded as the country&#8217;s [...]',
+        image: 'https://www.theborneopost.com/newsimages/2023/10/Kch-011023-sc-harden-p1.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:11:11Z',
+        source: 'theborneopost',
+        title: 'Harden: Hold more activities to transform Sri Aman into another preferred tourism destination in S’wak',
+        url: 'https://www.theborneopost.com/2023/10/01/harden-hold-more-activities-to-transform-sri-aman-into-another-preferred-tourism-destination-in-swak/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'in',
+        description: 'Jaishankar said that the success of the G-20 could not have happened without the support of the U.S.',
+        image: 'https://th-i.thgim.com/public/incoming/i9pfjh/article67368614.ece/alternates/LANDSCAPE_1200/PTI10_01_2023_000033A.jpg',        
+        language: 'en',
+        published_at: '2023-10-01T07:08:56Z',
+        source: 'The Hindu',
+        title: 'Like Chandrayaan, U.S.-India relationship will go to the moon and even beyond: EAM Jaishankar',
+        url: 'https://www.thehindu.com/news/national/like-chandrayaan-us-india-relationship-will-go-to-the-moon-and-even-beyond-eam-jaishankar/article67368596.ece'
+      },
+      {
+        author: 'Dimple Nakar',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup, one of the golfing world&#8217;s most eagerly awaited events, is in full swing at Marco Simone Golf and Country Club. It wasn&#8217;t the start the U.S. team was hoping for, but their resilience in the afternoon session on the second day gave a glimmer of hope. Despite trailing Europe 10½-5½, the Americans&#8230;The post ‘Bad A**’: As Team USA Suffers a Brutal Ryder Cup Thrashing, Spurned PGA Tour Pro Captures Hearts With ‘Class Act’ appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/imago0301777666h-560x293.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:08:40Z',
+        source: 'Essentially Sports',
+        title: '‘Bad A**’: As Team USA Suffers a Brutal Ryder Cup Thrashing, Spurned PGA Tour Pro Captures Hearts With ‘Class Act’',
+        url: 'https://www.essentiallysports.com/golf-news-bad-a-as-team-usa-suffers-a-brutal-ryder-cup-thrashing-spurned-pga-tour-pro-captures-hearts-with-class-act-keegan-bradley/'
+      },
+      {
+        author: 'Prit Chauhan',
+        category: 'sports',
+        country: 'us',
+        description: 'Conor McGregor may be away from the USADA but he&#8217;s close to his stout. And also to everyone his brand supports. The UFC fighter recently sent out a heartfelt message to Maisey Rose for a very good reason. So far, McGregor has been going hard at promoting his brand and this was just another way&#8230;The post Undefeated Female English Boxer Receives 4-Word Message From Conor McGregor Following Her 5th Consecutive Professional Win appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/GettyImages-1256782750-465x315.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:08:31Z',
+        source: 'Essentially Sports',
+        title: 'Undefeated Female English Boxer Receives 4-Word Message From Conor McGregor Following Her 5th Consecutive Professional Win',   
+        url: 'https://www.essentiallysports.com/ufc-mma-boxing-news-undefeated-female-english-boxer-receives-four-word-message-from-conor-mcgregor-following-her-fifth-consecutive-professional-win/'
+      },
+      {
+        author: 'Emma Mitchell',
+        category: 'general',
+        country: 'us',
+        description: 'In a society where the phrase toxic masculinity gets plenty of air-time, there’s not nearly enough attention given to what I like to call muppet masculinity; the art of powerful men making complete and total pillocks of themselves To demonstrate the art of muppet masculinity, we look at five times some of the most powerful [&#8230;]',
+        image: 'https://euroweeklynews.com/wp-content/uploads/2023/09/putin-bare-chested-gun-1024x575.jpeg',
+        language: 'en',
+        published_at: '2023-10-01T07:04:57Z',
+        source: 'euroweeklynews',
+        title: '5 Times Male World Leaders Made Pillocks Of Themselves',
+        url: 'https://euroweeklynews.com/2023/10/01/5-times-male-leaders-made-pillocks-of-themselves/'
+      },
+      {
+        author: 'Eric-Paul Johnson',
+        category: 'general',
+        country: 'us',
+        description: 'Williams rushes for 99 yards and two touchdowns to help the Bulldogs remain unbeaten in SCIAC play.',
+        image: 'https://www.dailybulletin.com/wp-content/uploads/2023/10/ocr-l-football-generic3.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'dailybulletin',
+        title: 'Inland college football roundup: Tony Williams Jr. leads Redlands past La Verne',
+        url: 'https://www.dailybulletin.com/2023/10/01/inland-college-football-roundup-tony-williams-jr-leads-redlands-past-la-verne/'
+      },
+      {
+        author: 'Eric-Paul Johnson',
+        category: 'general',
+        country: 'us',
+        description: 'Williams rushes for 99 yards and two touchdowns to help the Bulldogs remain unbeaten in SCIAC play.',
+        image: 'https://www.sbsun.com/wp-content/uploads/2023/10/ocr-l-football-generic3.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'sbsun',
+        title: 'Inland college football roundup: Tony Williams Jr. leads Redlands past La Verne',
+        url: 'https://www.sbsun.com/2023/10/01/inland-college-football-roundup-tony-williams-jr-leads-redlands-past-la-verne/'
+      },
+      {
+        author: 'Rohan Bhaunt',
+        category: 'sports',
+        country: 'us',
+        description: 'Boxing legend Canelo Alvarez bagged his 60th career win after defeating the undisputed Super Welterweight champion Jermell Charlo in a thrilling bout. Charlo had moved up two weight classes to challenge Alvarez for his super middleweight championship. But Canelo defended his title successfully, beating Charlo via unanimous decision. Apart from securing his Undisputed tag, Alvarez&#8230;The post After Slaying Jermell Charlo for 60th Boxing Win, $200M Rich Canelo Alvarez Surpasses Billionaire LeBron James’ Two-Decade-Long NBA Earnings appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Your-paragraph-text-36-560x293.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'Essentially Sports',
+        title: 'After Slaying Jermell Charlo for 60th Boxing Win, $200M Rich Canelo Alvarez Surpasses Billionaire LeBron James’ Two-Decade-Long NBA Earnings',
+        url: 'https://www.essentiallysports.com/nba-active-basketball-news-after-slaying-jermell-charlo-for-sixtyth-boxing-win-two-hundred-m-rich-canelo-alvarez-surpasses-billionaire-lebron-james-two-decade-long-nba-earnings/'
+      }
+    ]
+  }
+   ✓ Compiled in 215ms (837 modules)
+   ⚠ fetch for https://pratovecchio.stepzen.net/api/plundering-mink/__graphql on /?_rsc=3z8t5 specified "cache: default" and "revalidate: 30", only one should be specified.
+  14
+  86
+  {
+    pagination: { count: 100, limit: 100, offset: 0, total: 10000 },
+    data: [
+      {
+        author: 'Assile Toufaily, Contributor',
+        category: 'general',
+        country: 'us',
+        description: "The Lebanese Women's National Football team defeated Bhutan in Saudi Arabia to win their first ever trophy at senior level...",
+        image: 'https://imageio.forbes.com/specials-images/imageserve/65191cd6c20a7fd9701da1d3/0x0.jpg?width=960',
+        language: 'en',
+        published_at: '2023-10-01T07:23:12Z',
+        source: 'Forbes',
+        title: "Lebanon Wins The 2023 Women's International Friendly Tournament",
+        url: 'https://www.forbes.com/sites/assiletoufaily/2023/10/01/lebanon-wins-the-2023-womens-international-friendly-tournament/'
+      },
+      {
+        author: 'Khambe Huda Imran',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup has ended with its team sessions and what a day it was! As the second day came to an end, both teams were boiling with passion and greed to win. Patrick Cantlay’s 18th-hole putt is going around as the highlight of the day. Followed by questions touching on a hatless Cantlay at&#8230;The post As a &#8216;Hatless&#8217; Patrick Cantlay Ignites Feud Rumors, Captain Zach Johnson Goes in Damage Control Mode With Bizarre Confession appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Patrick-Cantlay-Zach-Johnson-Collage-560x315.png',
+        language: 'en',
+        published_at: '2023-10-01T07:23:00Z',
+        source: 'Essentially Sports',
+        title: 'As a ‘Hatless’ Patrick Cantlay Ignites Feud Rumors, Captain Zach Johnson Goes in Damage Control Mode With Bizarre Confession', 
+        url: 'https://www.essentiallysports.com/golf-news-as-a-hatless-patrick-cantlay-ignites-feud-rumors-captain-zach-johnson-goes-in-damage-control-mode-with-bizarre-confession-ryder-cup/'
+      },
+      {
+        author: 'Suchita Chakraborty',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup is underway, with Team Europe dominating the game. After Friday&#8217;s round at the Marco Simone Golf and Country Club, America stood at 1.5 points while Europe was at 6.5. But the USA veterans carried their team and pulled the score to 5.5, with one win in the Saturday foursomes and three wins&#8230;The post ‘Acted Like an Idiot’: As Americans Narrowly Keep Their Heads Above Water, Rookie Max Homa Comes Clean on ‘Headless’ Antics appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Max-Homa-02-473x315.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:22:42Z',
+        source: 'Essentially Sports',
+        title: '‘Acted Like an Idiot’: As Americans Narrowly Keep Their Heads Above Water, Rookie Max Homa Comes Clean on ‘Headless’ Antics',  
+        url: 'https://www.essentiallysports.com/golf-news-acted-like-an-idiot-as-americans-narrowly-keep-their-heads-above-water-rookie-max-homa-comes-clean-on-headless-antics-ryder-cup/'
+      },
+      {
+        author: 'Joanne Hunt',
+        category: 'general',
+        country: 'us',
+        description: 'Some homeowners are advertising houses to rent at staggering prices',
+        image: 'https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/mjc4E20ohZd0OWUxLtOxujr9AWU=/630x350/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/C66BVGR3CC2MXE4RGIU5NHMGN4.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:18:00Z',
+        source: 'irishtimes',
+        title: 'Almost €40,000 to rent a four-bed semi-d in Limerick? Munster homeowners look to cash in on Ryder Cup in 2027',
+        url: 'https://www.irishtimes.com/property/interiors/2023/10/01/almost-40000-to-rent-a-four-bed-semi-d-in-limerick-munster-homeowners-look-to-cash-in-on-ryder-cup-in-2027/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'us',
+        description: "To find out what's making Britain tick right now, you can forget the red-boxed Budget speech. What you need is the John Lewis annual consumer report. YOU got exclusive access to the latest findings…",
+        image: 'https://i.dailymail.co.uk/1s/2023/09/29/13/75975333-0-image-a-89_1695990274601.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:16:32Z',
+        source: 'dailymail',
+        title: "Which items get bought 18 times an hour at John Lewis? And what viral TikTok trend has pushed sales of Dior make-up up 101 per cent? Britain's spend trends revealed by fascinating John Lewis data",
+        url: 'https://www.dailymail.co.uk/home/you/article-12566543/Which-items-bought-18-times-hour-John-Lewis-viral-TikTok-trend-pushed-sales-Dior-make-101-cent-Britains-spend-trends-revealed-fascinating-John-Lewis-data.html?ns_mchannel=rss&ito=1490&ns_campaign=1490'
+      },
+      {
+        author: 'Jim Seimas',
+        category: 'general',
+        country: 'us',
+        description: "Louie Walters, in his 23rd season as Scotts Valley High football coach, hasn't ever endured such a long duration between games as the one he and his Falcons just endured -- 16 days.",
+        image: 'https://www.santacruzsentinel.com/wp-content/uploads/2023/10/STC-L-HSFBRND-1002-01.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:14:56Z',
+        source: 'santacruzsentinel',
+        title: 'Falcons show no rust in win over St. Francis | High school football roundup',
+        url: 'https://www.santacruzsentinel.com/2023/10/01/falcons-show-no-rust-in-win-over-st-francis-high-school-football-roundup/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'us',
+        description: 'SRI AMAN (Oct 1): The Sarawak government should organise more activities in Sri Aman to transform the district into another preferred tourism destination in the state, said Simanggang assemblyman Datuk Francis Harden Hollis Harden, who is also the state Deputy Education, Innovation and Talent Development Minister, said Simanggang town can be regarded as the country&#8217;s [...]',
+        image: 'https://www.theborneopost.com/newsimages/2023/10/Kch-011023-sc-harden-p1.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:11:11Z',
+        source: 'theborneopost',
+        title: 'Harden: Hold more activities to transform Sri Aman into another preferred tourism destination in S’wak',
+        url: 'https://www.theborneopost.com/2023/10/01/harden-hold-more-activities-to-transform-sri-aman-into-another-preferred-tourism-destination-in-swak/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'in',
+        description: 'Jaishankar said that the success of the G-20 could not have happened without the support of the U.S.',
+        image: 'https://th-i.thgim.com/public/incoming/i9pfjh/article67368614.ece/alternates/LANDSCAPE_1200/PTI10_01_2023_000033A.jpg',        
+        language: 'en',
+        published_at: '2023-10-01T07:08:56Z',
+        source: 'The Hindu',
+        title: 'Like Chandrayaan, U.S.-India relationship will go to the moon and even beyond: EAM Jaishankar',
+        url: 'https://www.thehindu.com/news/national/like-chandrayaan-us-india-relationship-will-go-to-the-moon-and-even-beyond-eam-jaishankar/article67368596.ece'
+      },
+      {
+        author: 'Dimple Nakar',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup, one of the golfing world&#8217;s most eagerly awaited events, is in full swing at Marco Simone Golf and Country Club. It wasn&#8217;t the start the U.S. team was hoping for, but their resilience in the afternoon session on the second day gave a glimmer of hope. Despite trailing Europe 10½-5½, the Americans&#8230;The post ‘Bad A**’: As Team USA Suffers a Brutal Ryder Cup Thrashing, Spurned PGA Tour Pro Captures Hearts With ‘Class Act’ appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/imago0301777666h-560x293.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:08:40Z',
+        source: 'Essentially Sports',
+        title: '‘Bad A**’: As Team USA Suffers a Brutal Ryder Cup Thrashing, Spurned PGA Tour Pro Captures Hearts With ‘Class Act’',
+        url: 'https://www.essentiallysports.com/golf-news-bad-a-as-team-usa-suffers-a-brutal-ryder-cup-thrashing-spurned-pga-tour-pro-captures-hearts-with-class-act-keegan-bradley/'
+      },
+      {
+        author: 'Prit Chauhan',
+        category: 'sports',
+        country: 'us',
+        description: 'Conor McGregor may be away from the USADA but he&#8217;s close to his stout. And also to everyone his brand supports. The UFC fighter recently sent out a heartfelt message to Maisey Rose for a very good reason. So far, McGregor has been going hard at promoting his brand and this was just another way&#8230;The post Undefeated Female English Boxer Receives 4-Word Message From Conor McGregor Following Her 5th Consecutive Professional Win appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/GettyImages-1256782750-465x315.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:08:31Z',
+        source: 'Essentially Sports',
+        title: 'Undefeated Female English Boxer Receives 4-Word Message From Conor McGregor Following Her 5th Consecutive Professional Win',   
+        url: 'https://www.essentiallysports.com/ufc-mma-boxing-news-undefeated-female-english-boxer-receives-four-word-message-from-conor-mcgregor-following-her-fifth-consecutive-professional-win/'
+      },
+      {
+        author: 'Emma Mitchell',
+        category: 'general',
+        country: 'us',
+        description: 'In a society where the phrase toxic masculinity gets plenty of air-time, there’s not nearly enough attention given to what I like to call muppet masculinity; the art of powerful men making complete and total pillocks of themselves To demonstrate the art of muppet masculinity, we look at five times some of the most powerful [&#8230;]',
+        image: 'https://euroweeklynews.com/wp-content/uploads/2023/09/putin-bare-chested-gun-1024x575.jpeg',
+        language: 'en',
+        published_at: '2023-10-01T07:04:57Z',
+        source: 'euroweeklynews',
+        title: '5 Times Male World Leaders Made Pillocks Of Themselves',
+        url: 'https://euroweeklynews.com/2023/10/01/5-times-male-leaders-made-pillocks-of-themselves/'
+      },
+      {
+        author: 'Eric-Paul Johnson',
+        category: 'general',
+        country: 'us',
+        description: 'Williams rushes for 99 yards and two touchdowns to help the Bulldogs remain unbeaten in SCIAC play.',
+        image: 'https://www.dailybulletin.com/wp-content/uploads/2023/10/ocr-l-football-generic3.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'dailybulletin',
+        title: 'Inland college football roundup: Tony Williams Jr. leads Redlands past La Verne',
+        url: 'https://www.dailybulletin.com/2023/10/01/inland-college-football-roundup-tony-williams-jr-leads-redlands-past-la-verne/'
+      },
+      {
+        author: 'Eric-Paul Johnson',
+        category: 'general',
+        country: 'us',
+        description: 'Williams rushes for 99 yards and two touchdowns to help the Bulldogs remain unbeaten in SCIAC play.',
+        image: 'https://www.sbsun.com/wp-content/uploads/2023/10/ocr-l-football-generic3.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'sbsun',
+        title: 'Inland college football roundup: Tony Williams Jr. leads Redlands past La Verne',
+        url: 'https://www.sbsun.com/2023/10/01/inland-college-football-roundup-tony-williams-jr-leads-redlands-past-la-verne/'
+      },
+      {
+        author: 'Rohan Bhaunt',
+        category: 'sports',
+        country: 'us',
+        description: 'Boxing legend Canelo Alvarez bagged his 60th career win after defeating the undisputed Super Welterweight champion Jermell Charlo in a thrilling bout. Charlo had moved up two weight classes to challenge Alvarez for his super middleweight championship. But Canelo defended his title successfully, beating Charlo via unanimous decision. Apart from securing his Undisputed tag, Alvarez&#8230;The post After Slaying Jermell Charlo for 60th Boxing Win, $200M Rich Canelo Alvarez Surpasses Billionaire LeBron James’ Two-Decade-Long NBA Earnings appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Your-paragraph-text-36-560x293.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'Essentially Sports',
+        title: 'After Slaying Jermell Charlo for 60th Boxing Win, $200M Rich Canelo Alvarez Surpasses Billionaire LeBron James’ Two-Decade-Long NBA Earnings',
+        url: 'https://www.essentiallysports.com/nba-active-basketball-news-after-slaying-jermell-charlo-for-sixtyth-boxing-win-two-hundred-m-rich-canelo-alvarez-surpasses-billionaire-lebron-james-two-decade-long-nba-earnings/'
+      }
+    ]
+  }
+   ✓ Compiled in 259ms (837 modules)
+   ⚠ fetch for https://pratovecchio.stepzen.net/api/plundering-mink/__graphql on /?_rsc=3z8t5 specified "cache: default" and "revalidate: 30", only one should be specified.
+  14
+  86
+  {
+    pagination: { count: 100, limit: 100, offset: 0, total: 10000 },
+    data: [
+      {
+        author: 'Assile Toufaily, Contributor',
+        category: 'general',
+        country: 'us',
+        description: "The Lebanese Women's National Football team defeated Bhutan in Saudi Arabia to win their first ever trophy at senior level...",
+        image: 'https://imageio.forbes.com/specials-images/imageserve/65191cd6c20a7fd9701da1d3/0x0.jpg?width=960',
+        language: 'en',
+        published_at: '2023-10-01T07:23:12Z',
+        source: 'Forbes',
+        title: "Lebanon Wins The 2023 Women's International Friendly Tournament",
+        url: 'https://www.forbes.com/sites/assiletoufaily/2023/10/01/lebanon-wins-the-2023-womens-international-friendly-tournament/'
+      },
+      {
+        author: 'Khambe Huda Imran',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup has ended with its team sessions and what a day it was! As the second day came to an end, both teams were boiling with passion and greed to win. Patrick Cantlay’s 18th-hole putt is going around as the highlight of the day. Followed by questions touching on a hatless Cantlay at&#8230;The post As a &#8216;Hatless&#8217; Patrick Cantlay Ignites Feud Rumors, Captain Zach Johnson Goes in Damage Control Mode With Bizarre Confession appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Patrick-Cantlay-Zach-Johnson-Collage-560x315.png',
+        language: 'en',
+        published_at: '2023-10-01T07:23:00Z',
+        source: 'Essentially Sports',
+        title: 'As a ‘Hatless’ Patrick Cantlay Ignites Feud Rumors, Captain Zach Johnson Goes in Damage Control Mode With Bizarre Confession', 
+        url: 'https://www.essentiallysports.com/golf-news-as-a-hatless-patrick-cantlay-ignites-feud-rumors-captain-zach-johnson-goes-in-damage-control-mode-with-bizarre-confession-ryder-cup/'
+      },
+      {
+        author: 'Suchita Chakraborty',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup is underway, with Team Europe dominating the game. After Friday&#8217;s round at the Marco Simone Golf and Country Club, America stood at 1.5 points while Europe was at 6.5. But the USA veterans carried their team and pulled the score to 5.5, with one win in the Saturday foursomes and three wins&#8230;The post ‘Acted Like an Idiot’: As Americans Narrowly Keep Their Heads Above Water, Rookie Max Homa Comes Clean on ‘Headless’ Antics appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Max-Homa-02-473x315.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:22:42Z',
+        source: 'Essentially Sports',
+        title: '‘Acted Like an Idiot’: As Americans Narrowly Keep Their Heads Above Water, Rookie Max Homa Comes Clean on ‘Headless’ Antics',  
+        url: 'https://www.essentiallysports.com/golf-news-acted-like-an-idiot-as-americans-narrowly-keep-their-heads-above-water-rookie-max-homa-comes-clean-on-headless-antics-ryder-cup/'
+      },
+      {
+        author: 'Joanne Hunt',
+        category: 'general',
+        country: 'us',
+        description: 'Some homeowners are advertising houses to rent at staggering prices',
+        image: 'https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/mjc4E20ohZd0OWUxLtOxujr9AWU=/630x350/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/C66BVGR3CC2MXE4RGIU5NHMGN4.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:18:00Z',
+        source: 'irishtimes',
+        title: 'Almost €40,000 to rent a four-bed semi-d in Limerick? Munster homeowners look to cash in on Ryder Cup in 2027',
+        url: 'https://www.irishtimes.com/property/interiors/2023/10/01/almost-40000-to-rent-a-four-bed-semi-d-in-limerick-munster-homeowners-look-to-cash-in-on-ryder-cup-in-2027/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'us',
+        description: "To find out what's making Britain tick right now, you can forget the red-boxed Budget speech. What you need is the John Lewis annual consumer report. YOU got exclusive access to the latest findings…",
+        image: 'https://i.dailymail.co.uk/1s/2023/09/29/13/75975333-0-image-a-89_1695990274601.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:16:32Z',
+        source: 'dailymail',
+        title: "Which items get bought 18 times an hour at John Lewis? And what viral TikTok trend has pushed sales of Dior make-up up 101 per cent? Britain's spend trends revealed by fascinating John Lewis data",
+        url: 'https://www.dailymail.co.uk/home/you/article-12566543/Which-items-bought-18-times-hour-John-Lewis-viral-TikTok-trend-pushed-sales-Dior-make-101-cent-Britains-spend-trends-revealed-fascinating-John-Lewis-data.html?ns_mchannel=rss&ito=1490&ns_campaign=1490'
+      },
+      {
+        author: 'Jim Seimas',
+        category: 'general',
+        country: 'us',
+        description: "Louie Walters, in his 23rd season as Scotts Valley High football coach, hasn't ever endured such a long duration between games as the one he and his Falcons just endured -- 16 days.",
+        image: 'https://www.santacruzsentinel.com/wp-content/uploads/2023/10/STC-L-HSFBRND-1002-01.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:14:56Z',
+        source: 'santacruzsentinel',
+        title: 'Falcons show no rust in win over St. Francis | High school football roundup',
+        url: 'https://www.santacruzsentinel.com/2023/10/01/falcons-show-no-rust-in-win-over-st-francis-high-school-football-roundup/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'us',
+        description: 'SRI AMAN (Oct 1): The Sarawak government should organise more activities in Sri Aman to transform the district into another preferred tourism destination in the state, said Simanggang assemblyman Datuk Francis Harden Hollis Harden, who is also the state Deputy Education, Innovation and Talent Development Minister, said Simanggang town can be regarded as the country&#8217;s [...]',
+        image: 'https://www.theborneopost.com/newsimages/2023/10/Kch-011023-sc-harden-p1.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:11:11Z',
+        source: 'theborneopost',
+        title: 'Harden: Hold more activities to transform Sri Aman into another preferred tourism destination in S’wak',
+        url: 'https://www.theborneopost.com/2023/10/01/harden-hold-more-activities-to-transform-sri-aman-into-another-preferred-tourism-destination-in-swak/'
+      },
+      {
+        author: null,
+        category: 'general',
+        country: 'in',
+        description: 'Jaishankar said that the success of the G-20 could not have happened without the support of the U.S.',
+        image: 'https://th-i.thgim.com/public/incoming/i9pfjh/article67368614.ece/alternates/LANDSCAPE_1200/PTI10_01_2023_000033A.jpg',        
+        language: 'en',
+        published_at: '2023-10-01T07:08:56Z',
+        source: 'The Hindu',
+        title: 'Like Chandrayaan, U.S.-India relationship will go to the moon and even beyond: EAM Jaishankar',
+        url: 'https://www.thehindu.com/news/national/like-chandrayaan-us-india-relationship-will-go-to-the-moon-and-even-beyond-eam-jaishankar/article67368596.ece'
+      },
+      {
+        author: 'Dimple Nakar',
+        category: 'sports',
+        country: 'us',
+        description: 'The Ryder Cup, one of the golfing world&#8217;s most eagerly awaited events, is in full swing at Marco Simone Golf and Country Club. It wasn&#8217;t the start the U.S. team was hoping for, but their resilience in the afternoon session on the second day gave a glimmer of hope. Despite trailing Europe 10½-5½, the Americans&#8230;The post ‘Bad A**’: As Team USA Suffers a Brutal Ryder Cup Thrashing, Spurned PGA Tour Pro Captures Hearts With ‘Class Act’ appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/imago0301777666h-560x293.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:08:40Z',
+        source: 'Essentially Sports',
+        title: '‘Bad A**’: As Team USA Suffers a Brutal Ryder Cup Thrashing, Spurned PGA Tour Pro Captures Hearts With ‘Class Act’',
+        url: 'https://www.essentiallysports.com/golf-news-bad-a-as-team-usa-suffers-a-brutal-ryder-cup-thrashing-spurned-pga-tour-pro-captures-hearts-with-class-act-keegan-bradley/'
+      },
+      {
+        author: 'Prit Chauhan',
+        category: 'sports',
+        country: 'us',
+        description: 'Conor McGregor may be away from the USADA but he&#8217;s close to his stout. And also to everyone his brand supports. The UFC fighter recently sent out a heartfelt message to Maisey Rose for a very good reason. So far, McGregor has been going hard at promoting his brand and this was just another way&#8230;The post Undefeated Female English Boxer Receives 4-Word Message From Conor McGregor Following Her 5th Consecutive Professional Win appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/GettyImages-1256782750-465x315.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:08:31Z',
+        source: 'Essentially Sports',
+        title: 'Undefeated Female English Boxer Receives 4-Word Message From Conor McGregor Following Her 5th Consecutive Professional Win',   
+        url: 'https://www.essentiallysports.com/ufc-mma-boxing-news-undefeated-female-english-boxer-receives-four-word-message-from-conor-mcgregor-following-her-fifth-consecutive-professional-win/'
+      },
+      {
+        author: 'Emma Mitchell',
+        category: 'general',
+        country: 'us',
+        description: 'In a society where the phrase toxic masculinity gets plenty of air-time, there’s not nearly enough attention given to what I like to call muppet masculinity; the art of powerful men making complete and total pillocks of themselves To demonstrate the art of muppet masculinity, we look at five times some of the most powerful [&#8230;]',
+        image: 'https://euroweeklynews.com/wp-content/uploads/2023/09/putin-bare-chested-gun-1024x575.jpeg',
+        language: 'en',
+        published_at: '2023-10-01T07:04:57Z',
+        source: 'euroweeklynews',
+        title: '5 Times Male World Leaders Made Pillocks Of Themselves',
+        url: 'https://euroweeklynews.com/2023/10/01/5-times-male-leaders-made-pillocks-of-themselves/'
+      },
+      {
+        author: 'Eric-Paul Johnson',
+        category: 'general',
+        country: 'us',
+        description: 'Williams rushes for 99 yards and two touchdowns to help the Bulldogs remain unbeaten in SCIAC play.',
+        image: 'https://www.dailybulletin.com/wp-content/uploads/2023/10/ocr-l-football-generic3.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'dailybulletin',
+        title: 'Inland college football roundup: Tony Williams Jr. leads Redlands past La Verne',
+        url: 'https://www.dailybulletin.com/2023/10/01/inland-college-football-roundup-tony-williams-jr-leads-redlands-past-la-verne/'
+      },
+      {
+        author: 'Eric-Paul Johnson',
+        category: 'general',
+        country: 'us',
+        description: 'Williams rushes for 99 yards and two touchdowns to help the Bulldogs remain unbeaten in SCIAC play.',
+        image: 'https://www.sbsun.com/wp-content/uploads/2023/10/ocr-l-football-generic3.jpg?w=1400px&strip=all',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'sbsun',
+        title: 'Inland college football roundup: Tony Williams Jr. leads Redlands past La Verne',
+        url: 'https://www.sbsun.com/2023/10/01/inland-college-football-roundup-tony-williams-jr-leads-redlands-past-la-verne/'
+      },
+      {
+        author: 'Rohan Bhaunt',
+        category: 'sports',
+        country: 'us',
+        description: 'Boxing legend Canelo Alvarez bagged his 60th career win after defeating the undisputed Super Welterweight champion Jermell Charlo in a thrilling bout. Charlo had moved up two weight classes to challenge Alvarez for his super middleweight championship. But Canelo defended his title successfully, beating Charlo via unanimous decision. Apart from securing his Undisputed tag, Alvarez&#8230;The post After Slaying Jermell Charlo for 60th Boxing Win, $200M Rich Canelo Alvarez Surpasses Billionaire LeBron James’ Two-Decade-Long NBA Earnings appeared first on EssentiallySports.',
+        image: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Your-paragraph-text-36-560x293.jpg',
+        language: 'en',
+        published_at: '2023-10-01T07:04:50Z',
+        source: 'Essentially Sports',
+        title: 'After Slaying Jermell Charlo for 60th Boxing Win, $200M Rich Canelo Alvarez Surpasses Billionaire LeBron James’ Two-Decade-Long NBA Earnings',
+        url: 'https://www.essentiallysports.com/nba-active-basketball-news-after-slaying-jermell-charlo-for-sixtyth-boxing-win-two-hundred-m-rich-canelo-alvarez-surpasses-billionaire-lebron-james-two-decade-long-nba-earnings/'
+      }
+    ]
+  }
+  
