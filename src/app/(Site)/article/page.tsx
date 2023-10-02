@@ -20,7 +20,7 @@ const ArticlePage: React.FC<propsTypes> = ({ searchParams }) => {
     return (
         <article>
             <section className='mt-8 flex flex-col px-0 pb-24 lg:flex-row lg:px-10'>
-                {searchParams.image && (
+                {searchParams.image !== 'null' && (
                     <img
                         src={article.image}
                         alt={article.title}
