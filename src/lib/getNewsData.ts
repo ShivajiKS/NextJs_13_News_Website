@@ -43,13 +43,14 @@ export const getNewsData = async (
             }
         }
     `;
+    // cache: isDynamic ? 'no-cache' : 'default',
 
     // api call with caching and revalidation
     const res = await fetch(
         `https://pratovecchio.stepzen.net/api/plundering-mink/__graphql`,
         {
             method: 'POST',
-            cache: isDynamic ? 'no-cache' : 'default',
+
             next: isDynamic ? { revalidate: 0 } : { revalidate: 30 },
             headers: {
                 'Content-Type': 'application/json',

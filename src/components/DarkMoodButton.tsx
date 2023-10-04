@@ -13,7 +13,7 @@ export const Darkmood: React.FC = () => {
 
     if (!mounted) return null;
 
-    const currentTheme = theme === 'sysyem' ? systemTheme : theme;
+    const currentTheme = theme === 'system' ? systemTheme : theme;
 
     return (
         <div>
@@ -31,3 +31,7 @@ export const Darkmood: React.FC = () => {
         </div>
     );
 };
+
+
+
+

@@ -9,12 +9,13 @@ type propsTypes = {
 };
 
 const SearchPage: React.FC<propsTypes> = async ({ searchParams }) => {
-    console.log(searchParams?.item);
     const news: NewsResponse = await getNewsData(
         'general',
         searchParams?.item,
         true
     );
+    console.log('-------------------------------------------------------');
+    console.log(news);
     return (
         <div>
             <h1>

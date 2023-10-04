@@ -14,10 +14,10 @@ export const Article: React.FC<PropsTypes> = ({ article }) => {
                 <img
                     src={article.image}
                     alt='Not Image Found..'
+                    loading='lazy'
                     className='h-56 w-full rounded-t-lg object-cover shadow-md  '
                 />
             )}
-            {/* {article.image && ( */}
             <div className='m-3 flex flex-1 flex-col'>
                 <div className='flex flex-1 flex-col '>
                     <h2 className='line-clamp-2 font-serif font-bold '>
