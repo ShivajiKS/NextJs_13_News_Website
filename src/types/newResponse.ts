@@ -10,7 +10,7 @@ export type Article = {
     category: string;
     country: string;
     description: string;
-    image: string | null;
+    image: string;
     language: string;
     published_at: string;
     source: string;
